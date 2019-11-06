@@ -1,13 +1,18 @@
 ---
-title: What is a friend?
-date: 2016-07-20
-description: Exploring the mechanics of friendship
+title: Reference
+date: 2019-11-06
+description: DQ_CAT Reference
 categories:
-  - friends
+  - Reference
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
-author_staff_member: anna
+author_staff_member: Steve
 ---
-Friendship is a relationship of mutual affection between people. Friendship is a stronger form of interpersonal bond than an association. Friendship has been studied in academic fields such as sociology, social psychology, anthropology, and philosophy. Various academic theories of friendship have been proposed, including social exchange theory, equity theory, relational dialectics, and attachment styles. A World Happiness Database study found that people with close friendships are happier.
+md파일은 텍스트 파일 형식이므로 java파일 처럼 형식이 다른 파일을 올리면 파일이 깨지는 현상이 있습니다.
+
+java파일은 아래의 링크를 참고하셔서 들어가시면 됩니다.
+
+
+##### https://github.com/SeongHyeokShin/Source
 
 ![Checkmate](https://source.unsplash.com/random/1500x1000)
 
