@@ -2,7 +2,7 @@
 # Site
 
 title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
+url: "https://seonghyeokshin.github.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -11,14 +11,14 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: App marketing template for Jekyll.
-author:
-  name:
-  email:
+author: 신성혁
+  name: 신성혁 
+  email: sin4191@gmailc.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: SeongHyeok's Blog
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://seonghyeokshin.github.io
 
 # -----
 # Build
